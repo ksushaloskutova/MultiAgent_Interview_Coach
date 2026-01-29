@@ -109,4 +109,4 @@ if __name__ == "__main__":
     logger.log_final_feedback(sample_feedback)
 
     # Сохранение сессии
-    logger.save_session("example_interview_log.json")
+    logger.save_session("logs/example_interview_log.json")
